@@ -47,4 +47,4 @@ const message = "hello world";
 const shiftValue = 3;
 const encryptedMessage = encrypt(message, shiftValue);
 console.log(encryptedMessage); // "khoor xosld"
-console.log(decrypt(encryptedMessage, shiftValue)); // "hello world"
+console.log(decrypt(encryptedMessage, shiftValue));
